@@ -14,7 +14,7 @@
         "command": false,
         "console": false,
         "extrakey": true,
-        "mousekey": true,
+        "mousekey": false,
         "nkro": false,
         "rgb_matrix": false,
         "rgblight": false
@@ -72,11 +72,11 @@
                 {"label": "Ctrl", "matrix": [3, 0],"x": 0, "y": 3},
                 {"label": "Alt", "matrix": [3, 1],"x": 1, "y": 3},
                 {"label": "Super", "matrix": [3, 2],"x": 2, "y": 3},
-                {"label": "Menu", "matrix": [3, 3],"x": 3, "y": 3},
+                {"label": "MO3", "matrix": [3, 3],"x": 3, "y": 3},
                 {"label": "MO1", "matrix": [3, 4],"x": 4, "y": 3, "w": 1.25},
                 {"label": "Space","matrix": [3, 5],"x": 5.25, "y": 3, "w": 2},
                 {"label": "MO2", "matrix": [3, 6],"x": 7.25, "y": 3, "w": 1.25},
-                {"label": "Menu", "matrix": [3, 7],"x": 8.5, "y": 3},
+                {"label": "MO3", "matrix": [3, 7],"x": 8.5, "y": 3},
                 {"label": "Super", "matrix": [3, 8],"x": 9.5, "y": 3},
                 {"label": "Alt", "matrix": [3, 9],"x": 10.5, "y": 3},
                 {"label": "Ctrl", "matrix": [3, 10],"x": 11.5, "y": 3}
